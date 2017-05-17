@@ -1,0 +1,16 @@
+body{
+	
+}
+h1{
+	color: #f44253;
+	font-family: 'Arial', Verdana;
+	font-size: 60px;
+	text-align: center;
+}
+p{
+	color: #282424;
+	font-family: "Comic Sans", Comic, sans-serif;
+	font-size: 15px;
+	text-align: center;
+	margin: 2cm 4cm 3cm 4cm;
+}

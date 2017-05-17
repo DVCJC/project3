@@ -1,0 +1,22 @@
+h1{
+	color: #f44253;
+	font-family: 'Playfair Display', sans-serif;
+	font-size: 60px;
+	text-align: center;
+}
+h2{
+	font-style: oblique;
+	text-align: center;
+}
+h3{
+	color: #d65e33;
+	text-align: center;
+	font-size: 40px;
+}
+p{
+	color: #282424;
+	font-family: Courier New, Lucida Console, Monospace;
+	font-size: 15px;
+	text-align: center;
+	margin: 2cm 4cm 3cm 4cm;
+}
